@@ -27,8 +27,5 @@ Fusion has a lot of features, with **7 main categories**:
 
 ## Links
 
-*   [F.A.Q](https://www.atlanta-bot.fr/faq/)
 *   [Discord](https://discord.atlanta-bot.fr)
-*   [Twitter](https://twitter.com/AtlantaBot)
 *   [Github](https://github.com/Androz2091/AtlantaBot/)
-*   [Dashboard](https://dashboard.atlanta-bot.fr)
