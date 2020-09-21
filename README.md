@@ -1,7 +1,7 @@
 # Fusion
 
 [![](https://img.shields.io/discord/744479771874033674.svg?logo=discord&colorB=7289DA)](https://discord.gg/xMgSqyb)
-[![](https://discordbots.org/api/widget/status/557445719892688897.svg)](https://discordbots.org/bot/557445719892688897)
+[![](https://discordbots.org/api/widget/status/752549122384593037.svg)](https://discordbots.org/bot/752549122384593037)
 
 ### Complete Bot
 
