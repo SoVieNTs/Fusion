@@ -18,7 +18,7 @@ Fusion has a lot of features, with **7 main categories**:
 
 *   👩‍💼 **Administration**: `slowmode`, `welcome`, `addcommand`, `automod`, `backup` and **11** more! 
 *   🚓 **Moderation**: `see-warns`, `setlogs`, `checkinvites`, `poll`, and **6** more! 
-*   👻 **Fun**: `8bal`, `explode`, `nuke`, `puch`, `coin-flip` and tons more! 
+*   👻 **Fun**: `8ball`, `explode`, `nuke`, `puch`, `coin-flip` and tons more! 
 *   🖨️ **General**: `minimize`, `setafk`, `translate`, `remindme`, `hastebin`, `fortnite`, `minecraft` and **10** more! 
 *   👑 **Owner**: `eval`, `getinvite`, `servers-list` and **2** more!
 
