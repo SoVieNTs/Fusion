@@ -1,6 +1,6 @@
 # Fusion
 
-[![](https://img.shields.io/discord/565048515357835264.svg?logo=discord&colorB=7289DA)](https://discord.atlanta-bot.fr)
+[![](https://img.shields.io/discord/744479771874033674.svg?logo=discord&colorB=7289DA)](https://discord.atlanta-bot.fr)
 
 ### Complete Bot
 
