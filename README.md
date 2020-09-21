@@ -2,6 +2,7 @@
 
 [![](https://img.shields.io/discord/744479771874033674.svg?logo=discord&colorB=7289DA)](https://discord.gg/xMgSqyb)
 [![](https://discordbots.org/api/widget/status/752549122384593037.svg)](https://discordbots.org/bot/752549122384593037)
+[![](https://img.shields.io/badge/discord.js-v12.0.0--dev-blue.svg?logo=npm)](https://github.com/discordjs)
 
 ### Complete Bot
 
