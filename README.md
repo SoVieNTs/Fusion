@@ -3,7 +3,7 @@
 [![](https://img.shields.io/badge/discord.js-v12.0.0--dev-blue.svg?logo=npm)](https://discord.js.org)
 
 ### Partner Servers!
-[![Meme World](https://img.shields.io/discord/737456018627362857.svg?logo=discord&colorB=7289DA)](https://discord.gg/xMgSqyb)
+[![](https://img.shields.io/discord/737456018627362857.svg?logo=discord&colorB=7289DA)](https://discord.gg/xMgSqyb)
 
 ### Complete Bot
 Fusion offers (non-exhaustive list):
