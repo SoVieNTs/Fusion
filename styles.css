@@ -32,7 +32,7 @@ header {
 }
 
 #addMe {
-    position: static;
+    position: sticky;
     right: 10px;
     top: 10px;
     display: block;
