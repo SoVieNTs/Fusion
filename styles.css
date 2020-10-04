@@ -32,8 +32,6 @@ header {
 }
 
 #addMe {
-    display: block;
-    position: relative;
     border-radius: 9px;
 }
 
