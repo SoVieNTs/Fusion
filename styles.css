@@ -49,6 +49,7 @@ header h1 {
 }
 
 header h2 {
+    white-space: normal;
     font-size:15px;
     color:#fff;
 }
