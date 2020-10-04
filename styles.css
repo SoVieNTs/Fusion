@@ -32,11 +32,11 @@ header {
 }
 
 #addMe {
-    position: sticky;
+    position: absolute;
     right: 10px;
     top: 10px;
     display: block;
-    border-radius: 9px;
+    border-radius: 9px, 0px, 9px, 9px;
 }
 
 header h1 {
