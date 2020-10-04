@@ -33,10 +33,10 @@ header {
 
 #addMe {
     position: absolute;
-    right: 10px;
-    top: 10px;
+    right: 0;
+    top: 0;
     display: block;
-    border-radius: 9px, 0px, 9px, 9px;
+    border-radius: 9p, 0px, 9px, 9px;
 }
 
 header h1 {
