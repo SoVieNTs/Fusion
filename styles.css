@@ -48,6 +48,7 @@ header h1 {
 }
 
 header h2 {
+    position: absolute;
     font-size:15px;
     color:#fff;
 }
