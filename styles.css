@@ -48,6 +48,7 @@ header h1 {
 }
 
 header h2 {
+    position: relative;
     font-size:15px;
     color:#fff;
 }
