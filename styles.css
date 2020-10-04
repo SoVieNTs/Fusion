@@ -32,7 +32,7 @@ header {
 }
 
 #addMe {
-    position: absolute;
+    position:relative;
     right: 10px;
     top: 10px;
     display: block;
@@ -48,7 +48,6 @@ header h1 {
 }
 
 header h2 {
-    position: absolute;
     font-size:15px;
     color:#fff;
 }
