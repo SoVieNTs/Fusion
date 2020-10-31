@@ -32,10 +32,10 @@ function changeView(type, title) {
         case "about":
             content.innerHTML = `
                 <h1>About</h1>
-                    <p>Fusion includes so many great features such as reaction roles, fun commands and most importantly Moderation. Fusion is extremly simple to use, setup and configure with tons of avaliable features to customise.</p>
+                    <p>Fusion includes so many great features such as reaction roles, starboard, fun commands that get your whole server giggling and last but not least moderation. Super simple'n'efficient ready to use however you'd like too, made to improve your Discord Server!</p>
                       <h3>Here are the commands you can use with Fusion.</h3>
                         <p class="commands">🌍 General: <br><code>reverse</code>, <code>search</code>, <code>encrypt</code>, <code>decrypt</code>, <code>ping</code></p>
-                        <p class="commands">🛠️ Moderation: <br><code>warn</code>, <code>ban</code>, <code>kick</code>, <code>clear</code>, <code>avatar</code>, <code>profile</code>, <code>server</code>, <code>someone</code>, <code>rr-add</code></p>
+                        <p class="commands">🛠️ Moderation: <br><code>warn</code>, <code>ban</code>, <code>kick</code>, <code>clear</code>, <code>avatar</code>, <code>profile</code>, <code>server</code>, <code>someone</code>, <code>rr-add</code>, <code>starboard</code></p>
                         <p class="commands">🕹 Recreational: <br><code>8ball</code>, <code>dice</code>, <code>meme</code>, <code>coinflip</code>, <code>roast</code>. <code>pun</code>, <code>dadjoke</code>, <code>rps</code>, <code>cuteness</code>, <code>butt</code>, <code>yomama</code></p>
                         <p class="commands">👻 Roleplay: <br><code>nuke</code>, <code>slap</code>, <code>hug</code>, <code>punch</code>, <code>laugh</code>, <code>kill</code>, <code>squish</code>, <code>stretch</code></p>
                   `;
