@@ -3,7 +3,7 @@
 [![](https://img.shields.io/discord/744479771874033674.svg?logo=discord&colorB=7289DA)](https://discord.gg/xMgSqyb)
 [![](https://img.shields.io/badge/discord.js-v12.0.0--dev-blue.svg?logo=npm)](https://discord.js.org)
 
-### Complete Bot
+### Highlights
 Fusion offers (non-exhaustive list):
 *   ✉️ Coming soon, support for commands in direct messages.
 *   😀 Commands made pleasant thanks to the many emojis
