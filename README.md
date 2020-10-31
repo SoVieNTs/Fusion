@@ -10,13 +10,13 @@ Fusion offers (non-exhaustive list):
 *   ⚙️ Server configuration (prefix, starboard, etc...)
 Fusion also adds **a new mention** like @everyone` and `@here`, the `@someone`, which allows you to pick a random member of the server!
 
-### Many commands
+### Commands
 Fusion a ton of features, with **7 main categories**:
 
 *   🌍 **General:** `reverse`, `search`, `encrypt`, `decrypt`, `ping`
-*   🛠️ **Moderation:** `ban`, `kick`, `warn`, `clear`, `avatar`, `profile`, `server`, `someone`, `rr-add`, `starboard`
-*   🕹 **Recreational:** `8ball`, `dice`, `meme`, `coinflip`, `roast`, `pun`, `dadjoke`, `rps`, `cuteness`, `butt`, `yomama`
-*   👻 **Roleplay:** `nuke`, `slap`, `hug`, `punch`, `laugh`, `kill`, `squish`, `stretch`
+*   🛠️ **Moderation:** `ban`, `kick`, `warn`, `clear`, `avatar`, `profile`, `server`, `someone`, `rr-add`, `starboard` with a few more extra's.
+*   🕹 **Recreational:** `8ball`, `dice`, `meme`, `coinflip`, `roast`, `pun`, `dadjoke`, `rps`, `cuteness`, `butt`, `yomama` also some other amazing additions.
+*   👻 **Roleplay:** `nuke`, `slap`, `hug`, `punch`, `laugh`, `kill`, `squish`, `stretch` and more to come!
 
 ## Links
 *   [Discord](https://discord.gg/xMgSqyb)
