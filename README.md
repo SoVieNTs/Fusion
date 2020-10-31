@@ -9,9 +9,8 @@
 ### Complete Bot
 Fusion offers (non-exhaustive list):
 *   ✉️ Coming soon, support for commands in direct messages.
-*   ⚙️ Guild configuration (prefix, ignored channels, etc...)
 *   😀 Commands made pleasant thanks to the many emojis
-*   🗳️ Support for Discordbots.org votes with rewards!
+*   ⚙️ Server configuration (prefix, starboard, etc...)
 Fusion also adds **a new mention** like @everyone` and `@here`, the `@someone`, which allows you to pick a random member of the server!
 
 ### Many commands
