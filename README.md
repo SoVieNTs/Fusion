@@ -3,9 +3,6 @@
 [![](https://img.shields.io/discord/744479771874033674.svg?logo=discord&colorB=7289DA)](https://discord.gg/xMgSqyb)
 [![](https://img.shields.io/badge/discord.js-v12.0.0--dev-blue.svg?logo=npm)](https://discord.js.org)
 
-#### Partner Servers!
-[![](https://img.shields.io/discord/737456018627362857.svg?logo=discord&colorB=7289DA)](https://discord.gg/azFnW2E)
-
 ### Complete Bot
 Fusion offers (non-exhaustive list):
 *   ✉️ Coming soon, support for commands in direct messages.
@@ -24,3 +21,6 @@ Fusion has a lot of features, with **7 main categories**:
 ## Links
 *   [Discord](https://discord.gg/xMgSqyb)
 *   [Github](https://github.com/SoVieNTs/Fusion/)
+
+#### Partnered Servers!
+[![](https://img.shields.io/discord/737456018627362857.svg?logo=discord&colorB=7289DA)](https://discord.gg/azFnW2E)
