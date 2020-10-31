@@ -11,7 +11,7 @@ Fusion offers (non-exhaustive list):
 Fusion also adds **a new mention** like @everyone` and `@here`, the `@someone`, which allows you to pick a random member of the server!
 
 ### Many commands
-Fusion has a lot of features, with **7 main categories**:
+Fusion a ton of features, with **7 main categories**:
 
 *   🌍 **General:** `reverse`, `search`, `encrypt`, `decrypt`, `ping`
 *   🛠️ **Moderation:** `ban`, `kick`, `warn`, `clear`, `avatar`, `profile`, `server`, `someone`, `rr-add`, `starboard`
