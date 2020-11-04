@@ -1,0 +1,189 @@
+html {
+    /* Main background colour here. */
+    background:#1e1e1e;
+}
+
+body {
+    padding:50px;
+    margin:0;
+    font-family: monospace;
+    line-height: 1.4;
+    color:#b9bbbe;
+}
+
+.wrapper {
+    width:640px;
+    margin:0 auto;
+    border-radius: 8px;
+    box-shadow:rgba(0,0,0,0.2) 0 0 0 1px,rgba(0,0,0,0.45) 0 3px 10px;
+}
+
+#navigation {
+    margin-top: 0.2em;
+    margin-bottom: 0.2em;
+}
+
+.commands {
+    margin-top: 0.4em;
+    margin-bottom: 0.9em;
+}
+
+.field {
+    font-family: monospace;
+    font-size: 12px;
+    color: #a07ce3;
+    background: #1e1e1e;
+    border-radius: 0.4em;
+    border: 0;
+    box-sizing: border-box;
+    padding: 1em;
+    width: 100%;
+}
+
+.button {
+    text-align: center;
+    font-family: monospace;
+    font-size: 12px;
+    color: #b9bbbe;
+    background: #1e1e1e;
+    border-radius: 0.4em;
+    border: 0;
+    width: auto;
+    padding: 1em;
+}
+
+#invite {
+    font-family: monospace;
+    font-size: 12px;
+    color: #b9bbbe;
+    background: linear-gradient(#803ff1, #542a89);
+    border-radius: 0.4em;
+    border: 0;
+    width:640px;
+    margin-top: 1em;
+    padding: 1em;
+}
+
+#invite:hover {
+    background: linear-gradient(#542a89, #803ff1);
+}
+
+.button:hover {
+    color: #803ff1;
+}
+
+header {
+    border-radius:8px 8px 0 0;
+    background:#323232;
+    position:relative;
+    padding: 2em;
+}
+
+header h2, h4 {
+    margin: 0;
+}
+
+header p {
+    margin: 0 0 1em 0;
+}
+
+header code:hover {
+    color: #803ff1;
+}
+
+header code {
+    background-color: #292929;
+    padding: 0.5em;
+    margin-bottom: 0.5em;
+    font-weight:600;
+    line-height: 3em;
+}
+
+header, section, footer {
+    display:block;
+}
+
+section {
+    padding: 20px;
+    background-color: #292929;
+    border-radius:0 0 8px 8px;
+    position: relative;
+}
+
+img {
+    max-width:100%;
+}
+
+a:link, a:visited, a:hover, a:active  {
+    color: #803ff1;  
+    text-decoration: none;
+}
+
+code {
+    color: #b9bbbe;
+    font-family: monospace;
+    background-color: #333232;
+    border-radius: 3px;
+    padding: 2.5px;
+}
+
+footer {
+    width:640px;
+    margin:0 auto;
+    padding:20px 0 0;
+    color:#ccc;
+    overflow:hidden;
+}
+
+#foot-left {
+    float:left;
+}
+
+#foot-right {
+    float:right;
+}
+
+
+@media print, screen and (max-width: 740px) {
+    body {
+        padding:0;
+    }
+    
+    .wrapper {
+        border-radius:0;
+        box-shadow:none;
+        width:100%;
+    }
+
+    section {
+        border-radius: 0;
+    }
+
+    #invite {
+        margin: 0;
+        width: 100%;
+        border-radius: 0;
+    }
+
+    header {
+        border-radius: 0;
+    }
+    
+    footer {
+        border-radius:0;
+        padding:20px;
+        width:auto;
+    }
+
+    #foot-left {
+        float:none;
+        margin:0;
+    }
+    
+    #foot-right {
+        float:none;
+        margin: 0;
+        margin-top: 1em;
+    }
+
+}
