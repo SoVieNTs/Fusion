@@ -37,7 +37,7 @@ function changeView(type, title) {
                         <p class="commands">🌍 General: <br><code>reverse</code>, <code>search</code>, <code>encrypt</code>, <code>decrypt</code>, <code>ping</code></p>
                         <p class="commands">🛠️ Moderation: <br><code>warn</code>, <code>ban</code>, <code>kick</code>, <code>clear</code>, <code>avatar</code>, <code>profile</code>, <code>server</code>, <code>someone</code>, <code>rr-add</code>, <code>starboard</code></p>
                         <p class="commands">🕹 Recreational: <br><code>8ball</code>, <code>dice</code>, <code>meme</code>, <code>coinflip</code>, <code>roast</code>. <code>pun</code>, <code>dadjoke</code>, <code>rps</code>, <code>cuteness</code>, <code>butt</code>, <code>yomama</code></p>
-                        <p class="commands">👻 Roleplay: <br><code>nuke</code>, <code>slap</code>, <code>hug</code>, <code>punch</code>, <code>laugh</code>, <code>kill</code>, <code>squish</code>, <code>stretch</code></p>
+                        <p class="commands">👻 Roleplay: <br><code>nuke</code>, <code>slap</code>, <code>hug</code>, <code>punch</code>, <code>laugh</code>, <code>squish</code>, <code>stretch</code></p>
                   `;
             break;
         default:
