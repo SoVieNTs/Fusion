@@ -1,4 +1,4 @@
-# Fusion
+# Quantum
 ### Simple to use and easy to configure with tons of avaliable features to customise, 100% free of charge and 80% of the time online! Hope to become a vital part of your server metropolis.
 [![](https://img.shields.io/discord/744479771874033674.svg?logo=discord&colorB=7289DA)](https://discord.gg/xMgSqyb)
 [![](https://img.shields.io/badge/discord.js-v12.0.0--dev-blue.svg?logo=npm)](https://discord.js.org)
