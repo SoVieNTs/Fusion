@@ -20,7 +20,7 @@ Quantum has a ton of features, with **7 main categories**:
 
 ## Links
 *   [Discord](https://discord.gg/xMgSqyb)
-*   [GitHub](https://github.com/SoVieNTs/Fusion/)
+*   [GitHub](https://github.com/TR1PTyCH/Quantum/)
 
 #### Partnered Servers!
 [![](https://img.shields.io/discord/737456018627362857.svg?logo=discord&colorB=7289DA)](https://discord.gg/azFnW2E)
